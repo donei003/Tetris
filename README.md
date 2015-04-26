@@ -4,7 +4,7 @@
 - Advanced Rotation
 - Displays the next block to drop
 - Score
-- Ability to restart
+- Ability to restart the game (resets the score)
 
 ### Planned Features
 - The use of a graphical LCD to display the Tetris game
